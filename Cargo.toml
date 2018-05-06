@@ -1,0 +1,6 @@
+[package]
+name = "usb-descriptors-rs"
+version = "0.1.0"
+authors = ["KnownVermicelli <adamosca@gmail.com>"]
+
+[dependencies]
